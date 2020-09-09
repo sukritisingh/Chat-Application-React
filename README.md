@@ -1,0 +1,2 @@
+# Chat-Application-React
+Developed a responsive cross-browser, cross-platform real-time chat application supporting one-to-one chats as well as chat rooms and developed REST APIs to handle message filter as well as file uploads to the server. Supported features like new group creation capability, document sharing as well as bifurcation of admin and member accesses. Used react-google-login for authentication.
